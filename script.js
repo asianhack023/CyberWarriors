@@ -20,7 +20,7 @@ document.querySelector("#course_main").addEventListener("click", function () {
                 <p class="text-[#90b0cb] text-sm font-normal leading-normal">Master the basics of cybersecurity in this comprehensive course</p>
               </div>
               <button
-                class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-8 px-4 bg-[#223749] text-white text-sm font-medium leading-normal"
+                class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-xl h-8 px-4 bg-[#2094f3] text-white text-sm font-medium leading-normal"
               >
                 <span class="truncate">Enroll now</span>
               </button>
@@ -263,7 +263,7 @@ document.querySelector("#course_main").addEventListener("click", function () {
                 <div class="flex items-center gap-3">
                   <div
                     class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10"
-                    style='background-image: url("images/pp.jfif");'
+                    style='background-image: url("images/sanskriti.jfif");'
                   ></div>
                   <div class="flex-1">
                     <p class="text-white text-base font-medium leading-normal">Sanskriti Bishwokarma</p>
